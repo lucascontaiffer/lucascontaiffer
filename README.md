@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Lucas contaiffer</h1>
+<h1 align="center">Olá 👋, I'm Lucas contaiffer</h1>
 <h3 align="center">A frontend developer from Brasil.</h3>
-<img align="right" alt="Coding" width="400" src"https://media.tenor.com/images/b24460d29cfb2126afbba78c2b02a0d3/tenor.gif">
+<img align="right" alt="Coding" width="400" src"https://media.tenor.com/uYP_Nkq8VPsAAAAd/coding-hello-world.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucascontaiffer&label=Profile%20views&color=0e75b6&style=flat" alt="lucascontaiffer" /> </p>
 
